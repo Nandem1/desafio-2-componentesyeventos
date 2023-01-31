@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/desafio-2-componentesyeventos/static/css/main.c4311f36.css",
+    "main.js": "/desafio-2-componentesyeventos/static/js/main.ac0232cc.js",
+    "index.html": "/desafio-2-componentesyeventos/index.html",
+    "main.c4311f36.css.map": "/desafio-2-componentesyeventos/static/css/main.c4311f36.css.map",
+    "main.ac0232cc.js.map": "/desafio-2-componentesyeventos/static/js/main.ac0232cc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c4311f36.css",
+    "static/js/main.ac0232cc.js"
+  ]
+}
