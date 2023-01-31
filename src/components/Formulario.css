@@ -1,0 +1,13 @@
+.container {
+    width: 50%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.formulario {
+    box-shadow: 0px 1px 8px rgba(0, 0, 0, 0.621);
+    padding: 50px;
+    border-radius: 50px;
+}
